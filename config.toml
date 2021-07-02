@@ -1,0 +1,3 @@
+baseURL = "https://whatisinfinidash.com/"
+theme = "bare"
+disableKinds = ["taxonomy", "taxonomyTerm"]
